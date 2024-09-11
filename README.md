@@ -9,7 +9,7 @@ Research project:
 
 Data collected using Macbook Pro mid-2014 w/ Intel i7-4770 CPU @2.2GHz
 
-=> [Paper](https://docs.google.com/document/d/145LBZ7680NvzqANiOuwP2oL-ctMiIbJ4WNSffDGktQQ/edit?usp=drive_link)
+=> [Paper](https://drive.google.com/file/d/1aZiR1zrnxIwcMUIjQHerse5GQFYy1b8p/view?usp=drive_link)
 
-=> [Poster](https://docs.google.com/document/d/145LBZ7680NvzqANiOuwP2oL-ctMiIbJ4WNSffDGktQQ/edit?usp=drive_link)
+=> [Poster](https://drive.google.com/file/d/1LWB1C-ai2NQU7WLnLZH85Y3Qo0tPpAAg/view?usp=drive_link)
 
